@@ -14,6 +14,10 @@ An AI resume builder is the next step in smart job applications, a powerful comb
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/tpSG4xd/AIresume-watercolor.png" alt="AIresume-watercolor" border="0" /></a>
 
+![AI_resume](/AIAIAI/assets/images/AIresume_cartoon.png)
+
+<div style="position:relative; width:100%; height:0px; padding-bottom:87.348%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/spoyfx?nocontrols=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
 
 ## Wide Range of Customizable Templates
 We have over 25 beautifully designed templates that have been tested and reviewed by recruiters. Whether you’re a lawyer, an artist, an engineer, or any other professional — we’ve got customizable templates that will help you highlight your professional style and stand out from the crowd.
