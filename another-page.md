@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## AI is really good!
 
-_yay_
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/MgPDbjg/AIresume-cartoon.png" alt="AIresume-cartoon" border="0" /></a>
 
-[back](./)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/FDDwzk6/AIresume-group.png" alt="AIresume-group" border="0" /></a>
