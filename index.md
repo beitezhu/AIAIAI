@@ -12,6 +12,6 @@ Use our AI resume builder to create amazing resumes in minutes. Driven by real d
 An AI resume builder is the next step in smart job applications, a powerful combination of tech and human expertise. Gain a true advantage in your job search with AI-powered writing tips, instant formatting, keyword optimization, and designs crafted by experts.
 
 ![image](../assets/images/AIresume_watercolor.png)
-![Octocat](https://github.githubassets.com/images/AIresume_watercolor.png)
+![Resume]([https://github.githubassets.com/images/AIresume_watercolor.png](https://ibb.co/k2p7x9d))
 
 ![image](/docs/assets/images/AIresume_watercolor.png)
