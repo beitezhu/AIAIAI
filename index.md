@@ -20,7 +20,26 @@ An AI resume builder is the next step in smart job applications, a powerful comb
 ![AI_resume](/../assets/images/AIresume_cartoon.png)
 ![cat](/docs/assets/images/blacktocat.png)
 
-<div style="position:relative; width:100%; height:0px; padding-bottom:87.348%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/spoyfx?nocontrols=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auto-Play Video</title>
+    <link rel="stylesheet" href="style.css"> <!-- If you have external CSS -->
+</head>
+<body>
+
+<video autoplay muted loop id="myVideo">
+    <source src="/docs/assets/Genvideoresume.mp4" type="video/mp4">
+    Your browser does not support HTML5 video.
+</video>
+
+</body>
+</html>
+
+
 
 
 ## Wide Range of Customizable Templates
