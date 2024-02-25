@@ -32,3 +32,6 @@ Our AI resume builder provides a quick and easy creation process, removing the n
 
 ## Pre-written phrases
 With the power of job market data, we provide pre-written phrases and skill keywords that make resume writing a breeze. Use one-click smart suggestions and complete your document in minutes rather than hours.
+
+<br>
+Thank you
