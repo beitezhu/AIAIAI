@@ -14,30 +14,10 @@ An AI resume builder is the next step in smart job applications, a powerful comb
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/tpSG4xd/AIresume-watercolor.png" alt="AIresume-watercolor" border="0" /></a>
 
-![AI_resume](/AIAIAI/assets/images/AIresume_cartoon.png)
-
 
 ![AI_resume](/../assets/images/AIresume_cartoon.png)
-![cat](/docs/assets/images/blacktocat.png)
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Auto-Play Video</title>
-    <link rel="stylesheet" href="style.css"> <!-- If you have external CSS -->
-</head>
-<body>
-
-<video autoplay muted loop id="myVideo">
-    <source src="/docs/assets/Genvideoresume.mp4" type="video/mp4">
-    Your browser does not support HTML5 video.
-</video>
-
-</body>
-</html>
+![AI_resume_video](/..assets/videos/Genvideoresume.mp4)
 
 
 
